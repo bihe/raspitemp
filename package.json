@@ -1,0 +1,28 @@
+{
+  "name": "temperature",
+  "version": "1.0.0",
+  "description": "Send temperature values to dweet.io",
+  "main": "tempreader.js",
+  "dependencies": {
+    "node-dweetio": "0.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bihe/raspitemp.git"
+  },
+  "keywords": [
+    "raspberry",
+    "iot",
+    "dweet"
+  ],
+  "author": "Henrik Binggl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bihe/raspitemp/issues"
+  },
+  "homepage": "https://github.com/bihe/raspitemp#readme"
+}
